@@ -2,7 +2,7 @@
 ## Summary ##
 By default using the PicoPass application on a FlipperZero to brute-force an iCLASS key fob has a very small number of keys available which results in a low success rate. This can be improved by including the 700+keys in the iCopyX leak. The exact iCLASS key fob is shown in the images below. The firmware used for this attack is Unleashed Development version with extra apps (878E). 
 
-![]("../images/1.png")
+![](../images/1.png)
 
 ![]("images/2.png")
 
