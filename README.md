@@ -33,7 +33,7 @@ The actual leak of the 700+ from keys from iCopyX can be found in here. https://
 
 The original file as shown above is stored in this repo as `iclass_elite_dict_original.txt` so if you want to restore later you can just rename this file to `iclass_elite_dict.txt` and copy it back to your FlipperZero in the original location of `SD Card/apps_assets/picopass/iclass_elite-dict.txt`.  
 
-1. Copy the file from the SDCard to do this you can either remove the SDCARD or use the qFlipper application or just download the one attached to this repo. 
+1. Copy the file from the SD card, to do this you can either remove the SD card or use the qFlipper application or just download the one attached to this repo. 
 2. Copy all of the keys from pastebin link above and paste them into the file you downloaded. I put them after the key `C1B74D7478053AE2` but I'm not sure it would really matter. 
 
 ![](images/10.png)
